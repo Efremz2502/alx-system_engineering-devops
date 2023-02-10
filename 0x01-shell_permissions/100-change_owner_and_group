@@ -1,2 +1,2 @@
-chown vincent:staff . /hello
-chown vincent:staff . /hello
+#!/bin/bash
+chown vincent:staff ./hello
